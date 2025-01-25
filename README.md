@@ -97,3 +97,22 @@ Contributions are welcome!
 - Commit changes
 - Push to branch
 - Open pull request
+
+Rexzea - [Instagram](https://www.instagram.com/alzennora/profilecard/?igsh=Ym8wZHFjcWRxaWhx) - futzfarry@gmail.com
+
+
+
+Project Link: [TicTacToeAI](https://github.com/rexzea/TicTacToe-AI.git)
+
+---
++62 898-8610-455
+
+<div align="center">
+
+
+![Logo Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+```
+🌟 Made with ❤️ by Rexzea 🌟
+```
+
+</div>
