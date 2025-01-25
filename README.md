@@ -69,7 +69,7 @@ The AI uses the Minimax algorithm to:
 
 ```mermaid
 graph TD
-    A[User Input] --> B{Game Mode}
+    A[User] --> B{Game Mode}
     B -->|3x3| C[3x3 Board]
     B -->|5x5| D[x5 Board]
     C --> E[Player Move]
