@@ -35,11 +35,15 @@ pip install pygame
 ## 🎯 Game Modes
 
 ### 3x3 Classic
+<img src="/assets/ttt3.png" alt="Tic Tac Toe 3" width="300">
+
 - Traditional 3x3 grid
 - Quick, strategic matches
 - Perfect for quick games
 
 ### 5x5 Advanced
+<img src="/assets/ttt5.png" alt="Tic Tac Toe 5" width="300">
+
 - Larger 5x5 board
 - More complex strategy
 - Extended gameplay possibilities
