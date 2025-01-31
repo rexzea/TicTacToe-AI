@@ -155,15 +155,15 @@ class RexzeaTicTacToe:
         self.screen.fill(BACKGROUND)
         
         if self.winner:
-            text = f"{self.winner} Menang!"
+            text = f"{self.winner} Victory!"
         else:
-            text = "Permainan Seri!"
+            text = "Draw Game!"
         
         game_over_text = self.font.render(text, True, TEXT_COLOR)
         text_rect = game_over_text.get_rect(center=(self.screen_width//2, self.screen_height//2))
         self.screen.blit(game_over_text, text_rect)
         
-        restart_text = pygame.font.Font(None, 36).render('Tekan SPACE untuk Main Ulang', True, GRID_COLOR)
+        restart_text = pygame.font.Font(None, 36).render('Press SPACE to Replay', True, GRID_COLOR)
         restart_rect = restart_text.get_rect(center=(self.screen_width//2, self.screen_height//2 + 50))
         self.screen.blit(restart_text, restart_rect)
         
