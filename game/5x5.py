@@ -153,10 +153,10 @@ class RexzeaTicTacToe:
     
     def show_game_over(self):
         self.screen.fill(BACKGROUND)
-        
+                                                     
         if self.winner:
             text = f"{self.winner} Menang!"
-        else:
+        else:             
             text = "Permainan Seri!"
         
         game_over_text = self.font.render(text, True, TEXT_COLOR)
