@@ -189,7 +189,7 @@ class RexzeaTicTacToe:
 
                     if y < 100:
                         continue
-                    
+                                                                              
                     col = x // self.cell_size
                     row = (y - 100) // self.cell_size
                     
@@ -211,7 +211,7 @@ class RexzeaTicTacToe:
                                 self.game_over = True
                 
                 if self.game_over and event.type == pygame.KEYDOWN and event.key == pygame.K_SPACE:
-                    self.reset_game()
+                    self.reset_game()             
             
             self.draw_board()
             
