@@ -1,4 +1,4 @@
-# 🎮 Tic Tac Toe: Intelligent Game Experience
+# 🎮 Tic Tac Toe: AI Game Experience
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![PyGame](https://img.shields.io/badge/PyGame-Powered-green.svg)
