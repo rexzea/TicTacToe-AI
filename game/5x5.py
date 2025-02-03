@@ -69,7 +69,7 @@ class RexzeaTicTacToe:
         size = self.cell_size * 0.6
         pygame.draw.circle(self.screen, O_COLOR, (x, y), size/2, line_width)
     
-    def is_winner(self, player):
+    def is_winner(self, player): 
         for row in range(self.board_size):
             for col in range(self.board_size - 4):
                 if all(self.board[row][col+i] == player for i in range(5)):
