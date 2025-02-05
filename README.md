@@ -28,6 +28,9 @@ An Tic Tac Toe game that blends classic gameplay with intelligent AI and stunnin
 # Clone Repository
 git clone https://github.com/rexzea/TicTacToe-AI.git
 
+# Navigate folder
+cd TicTacToe-AI
+
 # Install Dependencies
 pip install pygame
 ```
